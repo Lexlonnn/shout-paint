@@ -1,23 +1,21 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# Shout Paints 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Ravish's Team
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: R B Ravish - Adishankara Institute if engineering and Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Shout-Paint is an innovative web-based painting application that revolutionizes digital art creation by using your voice as a color controller. Built with Next.js and featuring a sleek Figma-inspired interface, this interactive canvas responds to the intensity of your voice, automatically selecting colors based on how loud you speak or shout.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+
 
 ### The Solution (that nobody asked for)
 [How are you solving it? Keep it fun!]
@@ -25,72 +23,47 @@
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- Typescript
+- Nextjs
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+# Clone the repository
+git clone https://github.com/your-username/your-nextjs-project.git
+
+# Navigate to the project directory
+cd your-nextjs-project
+
+# Install dependencies
+pnpm install
+
+
+
 
 # Run
-[commands]
+# Start the development server
+pnpm dev
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="1915" height="934" alt="image" src="https://github.com/user-attachments/assets/2a32ba68-06b2-4d24-9200-2aecfc41399c" />
+<p>Dashboard</p>p
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[[Add your demo video link here]](https://drive.google.com/file/d/1vJGOsqdyB-OMYPgARRAPrkJLRqS1W8W7/view?usp=drive_link)
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- R B Ravish: Full project
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
