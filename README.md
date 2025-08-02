@@ -15,10 +15,15 @@
 Shout-Paint is an innovative web-based painting application that revolutionizes digital art creation by using your voice as a color controller. Built with Next.js and featuring a sleek Figma-inspired interface, this interactive canvas responds to the intensity of your voice, automatically selecting colors based on how loud you speak or shout.
 
 ### The Problem (that doesn't exist)
+Designers often face the frustrating limitation of not being able to change colors using their voice volume—yelling "make it brighter!" has no effect, no matter how passionately it's screamed. This lack of scream-based control is a serious setback for hands-free creativity.
 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+So, build a system that detects scream intensity through a microphone and maps it to color brightness.
+Louder scream = Brighter color.
+Softer voice = Darker shade.
+
+No buttons. No sliders. Just pure, vocal-powered design.
 
 ## Technical Details
 ### Technologies/Components Used
@@ -57,7 +62,7 @@ For Software:
 
 ### Project Demo
 # Video
-[[Add your demo video link here]](https://drive.google.com/file/d/1vJGOsqdyB-OMYPgARRAPrkJLRqS1W8W7/view?usp=drive_link)
+[[Demo Vdo]](https://drive.google.com/file/d/1vJGOsqdyB-OMYPgARRAPrkJLRqS1W8W7/view?usp=drive_link)
 
 
 
